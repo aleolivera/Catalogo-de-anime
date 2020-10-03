@@ -1,0 +1,17 @@
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\frmCatalogo\bin\Debug\frmCatalogo.exe.config
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\frmCatalogo\bin\Debug\frmCatalogo.exe
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\frmCatalogo\bin\Debug\frmCatalogo.pdb
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\frmCatalogo\obj\Debug\frmCatalogo.csprojAssemblyReference.cache
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\frmCatalogo\obj\Debug\frmCatalogo.frmCatalogo.resources
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\frmCatalogo\obj\Debug\frmCatalogo.Properties.Resources.resources
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\frmCatalogo\obj\Debug\frmCatalogo.csproj.GenerateResource.cache
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\frmCatalogo\obj\Debug\frmCatalogo.csproj.CoreCompileInputs.cache
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\frmCatalogo\obj\Debug\frmCatalogo.exe
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\frmCatalogo\obj\Debug\frmCatalogo.pdb
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\frmCatalogo\bin\Debug\Dominio.dll
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\frmCatalogo\bin\Debug\Negocio.dll
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\frmCatalogo\bin\Debug\Dominio.pdb
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\frmCatalogo\bin\Debug\Negocio.pdb
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\frmCatalogo\obj\Debug\frmCatalogo.csproj.CopyComplete
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\frmCatalogo\obj\Debug\frmCatalogo.frmAgregar.resources
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\frmCatalogo\obj\Debug\frmCatalogo.frmVerDetalle.resources

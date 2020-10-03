@@ -1,0 +1,9 @@
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\Negocio\bin\Debug\Negocio.dll
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\Negocio\bin\Debug\Dominio.dll
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\Negocio\obj\Debug\Negocio.dll
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\Negocio\obj\Debug\Negocio.pdb

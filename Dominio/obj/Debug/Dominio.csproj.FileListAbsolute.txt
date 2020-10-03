@@ -1,0 +1,6 @@
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\Dominio\bin\Debug\Dominio.dll
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\Dominio\obj\Debug\Dominio.dll
+C:\Users\Yerbaa\Documents\GitHub\Catalogo de anime\Dominio\obj\Debug\Dominio.pdb
